@@ -29,7 +29,7 @@
 		<dependency>
 			<groupId>org.tukaani</groupId>
 			<artifactId>xz</artifactId>
-			<version>1.8</version>
+			<version>1.9</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple -->
 		<dependency>
@@ -70,7 +70,7 @@
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
 					<appendAssemblyId>false</appendAssemblyId>
-					<classifier></classifier>
+					<classifier/>
 				</configuration>
 				<executions>
 					<execution>
