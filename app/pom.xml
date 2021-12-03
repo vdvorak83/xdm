@@ -23,7 +23,7 @@
 		<dependency>
 			<groupId>commons-net</groupId>
 			<artifactId>commons-net</artifactId>
-			<version>3.6</version>
+			<version>3.8.0</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.tukaani/xz -->
 		<dependency>
@@ -70,7 +70,7 @@
 						<descriptorRef>jar-with-dependencies</descriptorRef>
 					</descriptorRefs>
 					<appendAssemblyId>false</appendAssemblyId>
-					<classifier></classifier>
+					<classifier/>
 				</configuration>
 				<executions>
 					<execution>
